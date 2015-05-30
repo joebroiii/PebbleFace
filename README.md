@@ -10,4 +10,5 @@ To Do List
       Add to paired timeline
       Send photo
       Ask / Send matching face?
+      Sticker sending - Long Term plan (massive amounts of stickers!!)
   
