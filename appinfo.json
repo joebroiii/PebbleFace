@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "joebroiii@gmail.com",
+    "longName": "StringPhone",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "StringPhone",
+    "uuid": "23f6adcc-8794-4743-a4b7-2304e6f2af25",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
